@@ -1,0 +1,50 @@
+section.top {
+	background-color: #A7D3DC;
+}
+
+.container {
+	padding-top: 2em;
+}
+
+div.logo h1 {
+	font-size: 1.5em;
+}
+
+section div ul li a {
+	color: #000;
+}
+
+section div ul li a:hover {
+	background-color: #000;
+	color: #A7D3DC;
+	border-radius: 0.5em;
+	border: 1px solid #000;
+}
+
+section div ul li .active {
+	background-color: #000;
+	color: #A7D3DC;
+	border-radius: 0.5em;
+	border: 1px solid #000;
+}
+
+/* Attempt to make the active button do something when hovered over but the border is enlarging the element */
+section div ul li .active:hover {
+	background-color: #A7D3DC;
+	color: #000;
+	border: 1px solid #000;
+	border-radius: 0.5em;
+}
+
+.carousel-inner {
+	height: 30em;
+	padding-top: 10em;
+}
+
+.carousel-inner .carousel-item {
+		width: 50em;
+		padding-left: 35em;
+}
+
+
+
