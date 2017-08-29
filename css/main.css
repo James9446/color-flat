@@ -1,3 +1,8 @@
+* {
+	font-family: 'Merriweather', serif;
+}
+
+ /*Nav section*/
 section.top {
 	background-color: #A7D3DC;
 }
@@ -36,15 +41,25 @@ section div ul li .active:hover {
 	border-radius: 0.5em;
 }
 
+/*Carousel section*/
 .carousel-inner {
 	height: 30em;
 	padding-top: 10em;
 }
 
 .carousel-inner .carousel-item {
-		width: 50em;
-		padding-left: 35em;
+		width: 60em;
+		padding-left: 40em;
 }
 
+.carousel-inner .carousel-item h3 {
+	font-size: 2.5em;
+	padding-right: 5em;
+	padding-bottom: 2.3em;
+}
+
+/* ---- Finished top section --- */
+
+/* ---- White section ---- */
 
 
