@@ -83,7 +83,71 @@ section.white {
 	padding-bottom: 3em;
 }
 
+/* ---- Green Section ---- */ 
+section.green {
+	background-color: #99D2A5;
+}
 
+.green .container {
+	padding-top: 4em;
+}
 
+.green .col-md-4 {
+	text-align: center;
+}
 
+.green h2 {
+	color: #FFF;
+	font-size: 2.6em;
+}
+
+.green p {
+	color: #FFF;
+	font-size: 0.6em;
+	padding-bottom: 4em;
+}
+
+.green .col-md-auto h3 {
+	color: #FFF;
+	font-size: 1em;
+	border: 1px solid #99D2A5;
+	border-radius: 0.5em;
+	height: 2.5em;
+	padding: 1em;
+	padding-bottom: 2em;
+	margin-bottom: 4em;
+}
+
+.green .col-md-auto h3:hover {
+	border: 1px solid #FFF;
+}
+
+.green .col-md-auto h3:active {
+	border: 1px solid #FFF;
+	color: #99D2A5;
+	background-color: #FFF;
+}
+
+.green .col-md-4 img {
+	height: 12em;
+	margin-bottom: 4em;
+}
+
+.green .col-md-auto h4 {
+	color: #99D2A5;
+	background-color: #FFF;
+	font-size: 1em;
+	height: 3em;
+	width: 9em;
+	padding: 1em;
+	border: 1px solid #FFF;
+	border-radius: 0.5em;
+	margin-top: 2.8em;
+	margin-bottom: 6em;
+}
+
+.green .col-md-auto h4:hover {
+	color: #FFF;
+	background-color: #99D2A5;
+}
 
