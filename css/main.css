@@ -61,5 +61,29 @@ section div ul li .active:hover {
 /* ---- Finished top section --- */
 
 /* ---- White section ---- */
+section.white {
+	background-color: #FFF;
+}
+
+.white .col-md-4 {
+	text-align: center;
+	padding-top: 5em;
+}
+
+.white .col-md-4 img {
+	height: 8em;
+}
+
+.white .col-md-4 h3 {
+	padding-top: 2em;
+}
+
+.white .col-md-4 p {
+	padding-top: 2em;
+	padding-bottom: 3em;
+}
+
+
+
 
 
