@@ -151,3 +151,54 @@ section.green {
 	background-color: #99D2A5;
 }
 
+/* ---- Grey Section ---- */
+
+section.grey {
+	background-color: #F0F0F0;
+}
+
+.grey .container {
+	padding: 2em 0;
+}
+
+.grey .container .row {
+	margin: 4em 0 4em 0;
+}
+
+.grey .col-md-8 h3 {
+	padding-bottom: 0.5em;
+}
+
+.grey .col-md-8 p, .grey .col-md-8 button {
+	padding-bottom: 1em;
+}
+
+.grey .col-md-8 p {
+	color: #626065;
+}
+
+.grey .col-md-8 .btn-1 {
+	color: #FFF;
+	background-color: #99D2A5;
+	border-radius: 0.5em;
+	font-size: 1em;
+	height: 3em;
+	width: 9em;
+	padding: 1em;
+	padding-bottom: 2.5em;
+}
+
+.grey .col-md-8 .btn-2 {
+	color: #FFF;
+	background-color: #A7D3DC;
+	border-radius: 0.5em;
+	font-size: 1em;
+	height: 3em;
+	width: 9em;
+	padding: 1em;
+	padding-bottom: 2.5em;
+}
+
+
+
+
