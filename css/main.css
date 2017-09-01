@@ -267,28 +267,25 @@ section.pink {
 }
 
 /* Pink Section Social Media Links */
-.pink figcaption i {
-	margin: 0 0.2em;
-}
-
-.pink figcaption .fa {
-	padding: 0 1.1em 1.1em 0.2em;
-	height: 1em;
-	width: 0.5em;
-	font-size: 3em;
+.pink i {
+	font-size: 2em;
 	color: #FFF;
-	border-radius: 2em;
+	padding: 0.5em 0.6em;
+	border-radius: 1em;
+	margin-right: 0.5em
 }
 
-.pink figcaption .fa-facebook {
+.pink .fa-facebook {
+	padding: 0.5em 0.75em;
 	background-color: #303CA2;
 }
 
-.pink figcaption .fa-twitter {
+.pink .fa-twitter {
+	padding: 0.5em 0.55em;
 	background-color: #329FE0;
 }
 
-.pink figcaption .fa-pinterest {
+.pink .fa-pinterest {
 	background-color: #BF314A;
 }
 
