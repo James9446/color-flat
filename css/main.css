@@ -156,7 +156,6 @@ section.green {
 }
 
 /* ---- Grey Section ---- */
-
 section.grey {
 	background-color: #F0F0F0;
 }
@@ -333,6 +332,7 @@ section.blue {
 	padding: 1em 0;
 }
 
+/* Blue section button */
 .blue .col-md-auto h4 {
 	color: #B5D5E2;
 	background-color: #FFF;
@@ -351,3 +351,86 @@ section.blue {
 	background-color: #B5D5E2;
 }
 
+/* ---- Bottom Section ---- */
+section.bottom {
+	background-color: #3C3C3C;
+}
+
+.bottom .container {
+	padding-top: 4em;
+}
+
+/* Bottom Section Header */
+.bottom .col-md-6, .bottom .col-md-4 {
+	text-align: center;
+}
+
+.bottom h2 {
+	color: #FFF;
+	font-size: 2.6em;
+}
+
+.bottom .mx-auto p {
+	color: #FFF;
+	font-size: 0.6em;
+	padding-bottom: 4em;
+}
+
+/* Bottom Section Forms */
+.bottom .form-group {
+	width: 30em;
+}
+
+/* Bottom Section Button */
+.bottom .col-md-auto h4 {
+	color: #3C3C3C;
+	background-color: #FFF;
+	font-size: 1em;
+	height: 3em;
+	width: 9em;
+	padding: 1.5em 0 2.5em 1em;
+	border: 1px solid #FFF;
+	border-radius: 0.5em;
+	margin-top: 2.8em;
+	margin-bottom: 6em;
+}
+
+.bottom .col-md-auto h4:hover {
+	color: #FFF;
+	background-color: #3C3C3C;
+}
+
+/* Bottom Section Line Break */
+.bottom hr {
+	color: #FFF;
+}
+
+/* Bottom Section Social Media */ 
+.bottom i {
+	font-size: 1.5em;
+	color: #3C3C3C;
+	background-color: #525252;
+	padding: 0.5em 0.6em;
+	border-radius: 1em;
+	margin-right: 0.5em
+}
+
+.bottom .fa-twitter {
+	padding: 0.5em 0.5em;
+}
+
+.bottom .fa-facebook {
+	padding: 0.5em 0.7em;
+}
+
+/* Bottom Section Footer */
+.bottom h5 {
+	color: #7F765D;
+	font-size: 1em;
+	padding-top: 1em;
+	margin-bottom: 2em;
+}
+
+.bottom h5 span {
+	color: #737373;
+}
